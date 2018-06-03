@@ -15,7 +15,7 @@
 ?>
 
 <div class="main">
-	<h1>Report</h1>
+	<h1>Problem Reporting Portal</h1>
 	
 	<div class="all">
 		<!--<div class="title">Human Rights</div>-->
