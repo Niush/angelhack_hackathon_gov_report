@@ -1,0 +1,48 @@
+.main{
+	margin-left:15px;
+	margin-right:15px;
+	padding:5px;
+	margin-top:16px;
+	border-top:2px solid teal;
+	border-left:2px solid teal;
+	border-right:2px solid teal;
+	font-family:Verdana;
+}
+
+h1{
+	text-align:center;
+}
+
+.boxes{
+	display:flex;
+	flex-wrap:wrap;
+	align-items:center;
+	align-content:center;
+	justify-content:center;
+}
+
+
+.boxes .box{
+	padding:20px 20px;
+	margin:23px;
+	font-size:16px;
+	text-align:center;
+	background:#aaaacf;
+	color:maroon;
+	font-weight:700;
+	align-self:center;
+	width:180px;
+	min-height:50px;
+	max-height:50px;
+	display:flex;
+	flex-wrap:wrap;
+	align-items:center;
+	align-content:center;
+	justify-content:center;
+	cursor:pointer;
+	border:2px solid salmon;
+}
+
+.boxes .box:hover{
+	background:#cbaacf;
+}
